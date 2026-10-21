@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Семена пшеницы",
+      "nameKk": "Бидай тұқымы",
+      "price": 5000,
+      "category": "Семена",
+      "categoryKk": "Тұқымдар",
+      "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=900&q=80",
+      "description": "Качественные семена для стабильного урожая.",
+      "descriptionKk": "Тұрақты өнім алуға арналған сапалы тұқым.",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Семена кукурузы",
+      "nameKk": "Жүгері тұқымы",
+      "price": 6000,
+      "category": "Семена",
+      "categoryKk": "Тұқымдар",
+      "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=900&q=80",
+      "description": "Семена кукурузы для фермерского хозяйства.",
+      "descriptionKk": "Фермерлік шаруашылыққа арналған жүгері тұқымы.",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Удобрение NPK",
+      "nameKk": "NPK тыңайтқышы",
+      "price": 12000,
+      "category": "Удобрения",
+      "categoryKk": "Тыңайтқыштар",
+      "image": "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=900&q=80",
+      "description": "Комплексное удобрение для здорового роста растений.",
+      "descriptionKk": "Өсімдіктің жақсы өсуіне арналған кешенді тыңайтқыш.",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Трактор МТЗ-82",
+      "nameKk": "МТЗ-82 тракторы",
+      "price": 12500000,
+      "category": "Техника",
+      "categoryKk": "Техника",
+      "image": "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=900&q=80",
+      "description": "Надёжная техника для сельскохозяйственных задач.",
+      "descriptionKk": "Ауыл шаруашылығы жұмыстарына арналған сенімді техника.",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Семена подсолнечника",
+      "nameKk": "Күнбағыс тұқымы",
+      "price": 7500,
+      "category": "Семена",
+      "categoryKk": "Тұқымдар",
+      "image": "https://images.unsplash.com/photo-1470509037663-253afd7f0f51?auto=format&fit=crop&w=900&q=80",
+      "description": "Семена для выращивания подсолнечника.",
+      "descriptionKk": "Күнбағыс өсіруге арналған тұқымдар.",
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Опрыскиватель",
+      "nameKk": "Бүріккіш",
+      "price": 890000,
+      "category": "Техника",
+      "categoryKk": "Техника",
+      "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=900&q=80",
+      "description": "Оборудование для ухода за посевами.",
+      "descriptionKk": "Егістікті күтуге арналған жабдық.",
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Садовые перчатки",
+      "nameKk": "Бақша қолғаптары",
+      "price": 2500,
+      "category": "Инструменты",
+      "categoryKk": "Құралдар",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=900&q=80",
+      "description": "Удобные перчатки для работы в саду и на участке.",
+      "descriptionKk": "Бақшада жұмыс істеуге арналған ыңғайлы қолғап.",
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Удобрение для овощей",
+      "nameKk": "Көкөністерге арналған тыңайтқыш",
+      "price": 9500,
+      "category": "Удобрения",
+      "categoryKk": "Тыңайтқыштар",
+      "image": "https://images.unsplash.com/photo-1599685315640-7ec1f3f5d5e8?auto=format&fit=crop&w=900&q=80",
+      "description": "Питательные вещества для огородных культур.",
+      "descriptionKk": "Бақша дақылдарына арналған қоректік заттар.",
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "Семена рапса",
+      "nameKk": "Рапс тұқымы",
+      "price": 6500,
+      "category": "Семена",
+      "categoryKk": "Тұқымдар",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=900&q=80",
+      "description": "Семена рапса для сельскохозяйственных посевов.",
+      "descriptionKk": "Ауыл шаруашылығы егістігіне арналған рапс тұқымы.",
+      "inStock": true
+    }
+  ]
+}
